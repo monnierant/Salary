@@ -1,0 +1,19 @@
+name: Salary
+main: me.monnierant.salary.Salary
+version: 2.0
+description: desc
+author: Monnier Antoine
+depend: [Vault]
+commands:
+  salary:
+    description: Help about Salary plugin.
+    usage: /salary
+  sal:
+    description: Help about Salary plugin.
+    usage: /sal
+  slr:
+    description: Help about Salary plugin.
+    usage: /slr
+permissions:
+  salary:
+    description: Usage

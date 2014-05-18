@@ -1,0 +1,15 @@
+settings:
+  debug: false
+  lng: FR
+  tracer:
+    chemin: salary.log
+    permission: salary.trace
+    param: 15
+  Salary:
+    onStart: true
+    onTimer: false
+    withPermissions: true
+    Timer: 100
+    World: DefaultWorld
+    Groups:
+    SalaryDetails:
